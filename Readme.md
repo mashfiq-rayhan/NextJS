@@ -1,4 +1,4 @@
-# NextJS Master: My Journey with Next.js ⚡️
+# NextJS : My Journey with Next.js ⚡️
 
 NextJS Master is a comprehensive workspace of Next.js projects and hands-on mini-applications. The folder structure is organized by topic and complexity, starting from essential Next.js concepts to advanced features like routing, data fetching, server actions, caching, authentication, optimization, and integration with React and backend APIs.
 
