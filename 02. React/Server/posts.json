@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "content": "This is a Test.",
+      "author": "Test",
+      "id": "0.921057423284763"
+    },
+    {
+      "content": "This course is hopefully very helpful to you!",
+      "author": "Mash",
+      "id": "post-1"
+    }
+  ]
+}
